@@ -1,8 +1,8 @@
-# contrib_grid
+# Contrib Grid
 
 Flutter package that renders a GitHub-style contribution heatmap. Pass a `Map<DateTime, int>` of daily values; the widget produces a calendar-aligned grid of small colored squares, one per day.
 
-![contrib_grid demo](contrib_grid.gif)
+![contrib_grid](https://raw.githubusercontent.com/anjumArnab/Contrib-Grid/main/contrib_grid.gif)
 
 ## Install
 
