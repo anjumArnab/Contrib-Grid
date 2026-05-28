@@ -1,5 +1,5 @@
 name: contrib_grid_example
-description: "Demo app for the contrib_grid package."
+description: "Example app for the contrib_grid package."
 publish_to: 'none'
 version: 0.1.0
 
