@@ -1,3 +1,1 @@
-# contrib_grid_example
-
-A new Flutter project.
+# Contrib Grid Example
