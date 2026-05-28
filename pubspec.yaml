@@ -1,6 +1,6 @@
 name: contrib_grid
 description: "Contribution heatmap widget for Flutter. Pass date-value pairs in; get a calendar-aligned colored grid out."
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/anjumArnab/Contrib-Grid
 
 environment:
